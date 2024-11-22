@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602502572435",
+    "project_id": "to-do-offline-app",
+    "storage_bucket": "to-do-offline-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602502572435:android:5187f6080c551314492066",
+        "android_client_info": {
+          "package_name": "com.example.to_do_offline_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxsLtYAMr_pbBAqbANCJnwloWGcRj1JxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
